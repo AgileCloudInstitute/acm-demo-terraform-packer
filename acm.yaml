@@ -1,6 +1,6 @@
-# This file summarizes the entire platform by listing each system in the order in which 
+# This file summarizes the entire appliance by listing each system in the order in which 
 # the systems will be deployed, including the name of the config file that defines each system.
   
-tfbackend: tfbackend.yaml
-admin: admin.yaml
-agents: agents.yaml
+tfbackend: acm-system-templates/tfbackend.yaml
+admin: acm-system-templates/admin.yaml
+agents: acm-system-templates/agents.yaml
