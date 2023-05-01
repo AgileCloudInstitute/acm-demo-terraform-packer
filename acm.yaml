@@ -2,5 +2,5 @@
 # the systems will be deployed, including the name of the config file that defines each system.
   
 tfbackend: acm-system-templates/tfbackend.yaml
-admin: acm-system-templates/admin.yaml
+#admin: acm-system-templates/admin.yaml
 agents: acm-system-templates/agents.yaml
